@@ -1,6 +1,2 @@
 # test1
-for first test
-<i> for Run this app, do these steps: </i>
-step1: ...
-step:...
-
+this repo is vreated just for training
